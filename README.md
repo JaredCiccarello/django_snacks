@@ -1,3 +1,10 @@
+Collaborators:
+Anthony Sinitsa
+Andrew Carroll
+Tammy Do
+Brandom Mizutani
+ChatGPT
+
 
 pip3 install
 pytest
